@@ -1,0 +1,8 @@
+{
+    "data" : [ [0, "GB3 Sunnyside", "Hours: \nMon - Fri: 04:00AM - 11:00PM \nSat - Sun: 06:00AM - 09:00PM", "36.736095", "-119.679523", "Gym"]
+              , [1, "GB3 Clovis", "Hours: \nMon - Fri: 04:00AM - 11:00PM \nSat - Sun: 06:00AM - 09:00PM", "36.838870", "-119.680584", "Gym"]
+              , [2, "GB3 North", "Hours: \nMon - Fri: 04:00AM - 11:00PM \nSat - Sun: 06:00AM - 09:00PM", "36.869661", "-119.756545", "Gym"]
+              , [3, "GB3 Palm", "Hours: \nMon - Fri: 04:00AM - 11:00PM \nSat - Sun: 06:00AM - 09:00PM", "36.850968", "-119.807620", "Gym"]
+              , [4, "GB3 West", "Hours: \nMon - Thurs: 24 Hours\nFri: 04:00AM - 11:00PM \nSat - Sun: 06:00AM - 09:00PM", "36.836283", "-119.882385", "Gym"]
+              ]
+}
